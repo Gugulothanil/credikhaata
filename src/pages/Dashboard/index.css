@@ -1,0 +1,30 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .customer-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+    margin-top: 20px;
+  }
+  
+  .customer-card {
+    padding: 16px;
+    border: 1px solid #888;
+    border-radius: 8px;
+    background: var(--bg);
+    color: var(--text);
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .customer-card:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .customer-card.overdue {
+    border-color: red;
+    background-color: #ffe5e5;
+  }
+  
