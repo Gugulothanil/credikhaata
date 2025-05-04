@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/credi-khaata/static/css/main.c718049c.css",
+    "main.js": "/credi-khaata/static/js/main.bb3d1b8c.js",
+    "static/js/239.2aeb7407.chunk.js": "/credi-khaata/static/js/239.2aeb7407.chunk.js",
+    "static/js/977.2cb528f4.chunk.js": "/credi-khaata/static/js/977.2cb528f4.chunk.js",
+    "static/js/732.161e9ad3.chunk.js": "/credi-khaata/static/js/732.161e9ad3.chunk.js",
+    "index.html": "/credi-khaata/index.html",
+    "main.c718049c.css.map": "/credi-khaata/static/css/main.c718049c.css.map",
+    "main.bb3d1b8c.js.map": "/credi-khaata/static/js/main.bb3d1b8c.js.map",
+    "239.2aeb7407.chunk.js.map": "/credi-khaata/static/js/239.2aeb7407.chunk.js.map",
+    "977.2cb528f4.chunk.js.map": "/credi-khaata/static/js/977.2cb528f4.chunk.js.map",
+    "732.161e9ad3.chunk.js.map": "/credi-khaata/static/js/732.161e9ad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c718049c.css",
+    "static/js/main.bb3d1b8c.js"
+  ]
+}
